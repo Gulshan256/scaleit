@@ -1,5 +1,3 @@
-Absolutely! Let's provide a more detailed description of the ScaleIt project, including its purpose, architecture, key features, and potential use cases.
-
 # ScaleIt Application Technical Documentation
 
 ## Overview
